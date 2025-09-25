@@ -9,6 +9,13 @@
 <input type="text" id="name" name="name" placeholder ="Enter Your Name" required>
 <label for ="email">Email:</label>
 <input type="email" id="email" name="email" placeholder ="Type your Email" required>
+<br>
+<input type="radio" id="fun-run" name="fun-run">
+<label for="fun-run">Fun Run</label>
+<input type="radio" id="half-run" name="half-run">
+<label for="half-run">Half Run</label>
+<input type="radio" id="full-run" name="full-run">
+<label for="full-run">Full Run</label>
 </form>
 </body>
 </html>
