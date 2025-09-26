@@ -20,7 +20,16 @@
 <button>Submit</button>
 </form>
 <div>
-
+<label for="age"> Age:</label>
+<select id="age" name="age >
+<option value="kids">3-10</option>
+<option value="teens">11-19</option>
+<option value="youth">20-29</option>
+<option value="adults">30-49</option>
+<option value="seniors">50+</option>
+</select>
+<br>
+<button>Submit</button>
 </div>
 </body>
 </html>
