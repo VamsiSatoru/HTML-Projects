@@ -1,0 +1,19 @@
+<!DOCTYPOE html>
+<head>
+<title> Lists </title>
+</head>
+<body>
+<h2>Here is the list</h2>
+<ul>
+<li>Best Anime's Of All Time:
+<ol>
+<li>Jujutsu Kaisen</li>
+<li>Naruto</li>
+<li>Black Clover</li>
+<li>Akashic Recors</li>
+<li>Solo Leveling</li>
+<li>Demon Slayer</li>
+</ol>
+</li>
+<p> <b>Don't search for One Piece & Attack On Titan😜</b> </p>
+</html>
